@@ -1,0 +1,673 @@
+Report ID  615 AmTrust North America Date 8/2/2017
+Run ID  5398194 Time  9:33:25AM
+User 23673 CPP LOSS HISTORY REPORT Page 1
+
+Loss History For: WPP1154807-01 Insured Name: HeartShare Human Services of New York
+As Of Date: 08/01/2017 Agency Name: Cobb B, LLC
+
+Policy: WPP1154807-01
+
+Claim History
+
+Subline Claim Number: Claim Type Desc: Status Date Of Loss Loss Description: Reserve Amt Paid Losses: Expense Pymts: Recovery Amt: Total Incurred
+CPP  2369950 1 Injury RC 11/22/2016 Insured was rear-ended by claimant vehicle. No damage  $0.00 $0.00 $0.00 $0.00 $0.00
+to insured vehicle.
+CPP  2369950 2 Injury C 11/22/2016 Insured was rear-ended by claimant vehicle. No damage  $0.00 $0.00 $0.00 $0.00 $0.00
+to insured vehicle.
+CPP  2370162 1 Auto C 11/23/2016 Insured vehicle hit other vehicle's mirror. $0.00 $1,963.74 $110.00 $0.00 $2,073.74
+CPP  2371845 1 Auto C 11/21/2016  Scene photos and I.A. confirm that IV should not have  $0.00 $0.00 $0.00 $0.00 $0.00
+attempted to pass a double parked car until and unless 
+she was certain that there was no oncoming 
+traffic.100% on IV.
+CPP  2371845 2 Injury O 11/21/2016  Scene photos and I.A. confirm that IV should not have  $41,958.50 $0.00 $1,655.06 $0.00 $43,613.56
+attempted to pass a double parked car until and unless 
+she was certain that there was no oncoming 
+traffic.100% on IV.
+CPP  2371845 3 Auto C 11/21/2016  Scene photos and I.A. confirm that IV should not have  $0.00 $3,840.07 $60.00 $0.00 $3,900.07
+attempted to pass a double parked car until and unless 
+she was certain that there was no oncoming 
+traffic.100% on IV.
+CPP  2371845 4 Injury C 11/21/2016  Scene photos and I.A. confirm that IV should not have  $0.00 $75,000.00 $1,297.99 $0.00 $76,297.99
+attempted to pass a double parked car until and unless 
+she was certain that there was no oncoming 
+traffic.100% on IV.
+CPP  2371845 5 Injury C 11/21/2016  Scene photos and I.A. confirm that IV should not have  $0.00 $15,000.00 $0.00 $0.00 $15,000.00
+attempted to pass a double parked car until and unless 
+she was certain that there was no oncoming 
+traffic.100% on IV.
+CPP  2486821 1 Auto C 12/13/2016 Claimant state that insured vehicle hit his parked car $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2491938 1 Auto RC 12/20/2016 Staff noticed vehicle had been scratched and slightly  $0.00 $3,264.41 $110.00 $0.00 $3,374.41
+dented while it was parked in the parked lot
+CPP  2492993 1 Auto C 11/22/2016 Duplicate of Claim #2371845 $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2492993 2 Auto C 11/22/2016 Duplicate of Claim #2371845 $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2492993 3 Injury C 11/22/2016 Duplicate of Claim #2371845 $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2500227 1 Auto C 12/20/2016 Insured vehicle was side-swiped by another vehicle. $0.00 $2,033.28 $115.00 $0.00 $2,148.28
+CPP  2500227 2 Auto C 12/20/2016 Insured vehicle was side-swiped by another vehicle. $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2500911 1 Auto RC 01/03/2017 Insured vehicle was parked and hit by other vehicle $0.00 $8,662.74 $175.00 $0.00 $8,837.74
+CPP  2500911 2 Auto C 01/03/2017 Insured vehicle was parked and hit by other vehicle $0.00 $0.00 $0.00 $0.00 $0.00Report ID  615 AmTrust North America Date 8/2/2017
+Run ID  5398194 Time  9:33:25AM
+User 23673 CPP LOSS HISTORY REPORT Page 2
+
+Loss History For: WPP1154807-01 Insured Name: HeartShare Human Services of New York
+As Of Date: 08/01/2017 Agency Name: Cobb B, LLC
+
+CPP  2502477 1 Auto RC 01/12/2017 Insured Vehicle was at stop sign and started to move  $0.00 $13,823.33 $235.00 $0.00 $14,058.33
+past when other vehicle came out of no where causing 
+insured vehicle to hit other vehicle.
+CPP  2502477 2 Auto RC 01/12/2017 Insured Vehicle was at stop sign and started to move  $0.00 $13,320.55 $65.00 $0.00 $13,385.55
+past when other vehicle came out of no where causing 
+insured vehicle to hit other vehicle.
+CPP  2502477 3 Injury O 01/12/2017 Insured Vehicle was at stop sign and started to move  $20,050.00 $0.00 $0.00 $0.00 $20,050.00
+past when other vehicle came out of no where causing 
+insured vehicle to hit other vehicle.
+CPP  2504520 1 Auto RC 12/05/2016 While parked insured's vehicle was hit on dr side. panel $0.00 $1,618.66 $173.00 $0.00 $1,791.66
+CPP  2507920 1 Auto C 01/29/2017 Insured made a u-turn and hit claimant t6hat was  $0.00 $0.00 $0.00 $0.00 $0.00
+parked on the side of the street
+CPP  2507920 2 Auto C 01/29/2017 Insured made a u-turn and hit claimant t6hat was  $0.00 $1,656.75 $115.00 $0.00 $1,771.75
+parked on the side of the street
+CPP  2517698 1 Auto C 02/13/2017 insd veh was struck by clmnt that was backing into a  $0.00 $0.00 $0.00 $0.00 $0.00
+parking space
+CPP  2517698 2 Auto C 02/13/2017 insd veh was struck by clmnt that was backing into a  $0.00 $0.00 $0.00 $0.00 $0.00
+parking space
+CPP  2523123 1 Auto C 02/21/2017 Staff stopped at a stop light and a vehicle ran into then  $0.00 $0.00 $0.00 $0.00 $0.00
+from behind.
+CPP  2523123 2 Injury C 02/21/2017 Staff stopped at a stop light and a vehicle ran into then  $0.00 $0.00 $0.00 $0.00 $0.00
+from behind.
+CPP  2523123 3 Injury C 02/21/2017 Staff stopped at a stop light and a vehicle ran into then  $0.00 $0.00 $35.15 $0.00 $35.15
+from behind.
+CPP  2523123 4 Injury C 02/21/2017 Staff stopped at a stop light and a vehicle ran into then  $0.00 $0.00 $0.00 $0.00 $0.00
+from behind.
+CPP  2523123 5 Auto C 02/21/2017 Staff stopped at a stop light and a vehicle ran into then  $0.00 $0.00 $0.00 $0.00 $0.00
+from behind.
+CPP  2526119 1 Auto C 02/03/2017 insd pulled out of parking lot and struck clmnt. $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2526119 2 Injury O 02/03/2017 insd pulled out of parking lot and struck clmnt. $7,500.00 $0.00 $2,078.14 $0.00 $9,578.14
+CPP  2526119 3 Auto C 02/03/2017 insd pulled out of parking lot and struck clmnt. $0.00 $437.30 $118.00 $0.00 $555.30
+CPP  2526119 4 Injury O 02/03/2017 insd pulled out of parking lot and struck clmnt. $7,500.00 $0.00 $0.00 $0.00 $7,500.00
+CPP  2526119 5 Injury O 02/03/2017 insd pulled out of parking lot and struck clmnt. $7,500.00 $0.00 $0.00 $0.00 $7,500.00
+CPP  2527261 1 Auto C 12/20/2016 Vehicle hit the side of residence when being moved  $0.00 $351.93 $100.00 $0.00 $451.93
+from front of driveway to rear of driveway
+CPP  2527261 2 Property C 12/20/2016 Vehicle hit the side of residence when being moved  $0.00 $0.00 $0.00 $0.00 $0.00
+from front of driveway to rear of driveway
+CPP  2527626 1 Auto RC 02/14/2017 Insured vehicle parking the van in the parking structure  $0.00 $3,506.32 $130.00 $0.00 $3,636.32
+hit pipe while trying to park van
+CPP  2531465 1 Auto C 03/07/2017 Insured hit claimant in the rear while mergin onto BQU $0.00 $4,412.24 $50.00 $0.00 $4,462.24
+CPP  2531465 2 Auto C 03/07/2017 Insured hit claimant in the rear while mergin onto BQU $0.00 $4,250.90 $115.32 $0.00 $4,366.22
+CPP  2531946 1 Auto C 03/15/2017 Insured vehicle struck a parked vehicle. $0.00 $0.00 $0.00 $0.00 $0.00Report ID  615 AmTrust North America Date 8/2/2017
+Run ID  5398194 Time  9:33:25AM
+User 23673 CPP LOSS HISTORY REPORT Page 3
+
+Loss History For: WPP1154807-01 Insured Name: HeartShare Human Services of New York
+As Of Date: 08/01/2017 Agency Name: Cobb B, LLC
+
+CPP  2531946 2 Auto C 03/15/2017 Insured vehicle struck a parked vehicle. $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2532300 1 Auto C 03/16/2017 CV stopped short at yellow light and IV slid into the  $0.00 $21,090.53 $188.00 $3,510.00 $17,768.53
+rear bumper
+CPP  2532300 2 Auto C 03/16/2017 CV stopped short at yellow light and IV slid into the  $0.00 $902.57 $35.00 $0.00 $937.57
+rear bumper
+CPP  2532300 3 Injury O 03/16/2017 CV stopped short at yellow light and IV slid into the  $25,000.00 $0.00 $0.00 $0.00 $25,000.00
+rear bumper
+CPP  2534401 1 Auto C 02/20/2017 Rental van accident $0.00 $2,747.22 $0.00 $0.00 $2,747.22
+CPP  2536620 1 Injury O 03/07/2017 On 3/6/17, one of Insured's foster parents, Norma  $2,500.00 $0.00 $0.00 $0.00 $2,500.00
+Boyd had two children brought to her by ACS at 11:30 
+pm. The next day,on 3/7/16 around 1:00 pm Ms. Boyd 
+found one of the children, Salvatore Quenca (D
+CPP  2542103 1 Auto C 01/11/2017 Claimant vehicle was driving North on Boyland when  $0.00 $0.00 $0.00 $0.00 $0.00
+insured vehicle passed the stop sign and t-boned it.
+CPP  2542103 2 Auto C 01/11/2017 Claimant vehicle was driving North on Boyland when  $0.00 $1,127.76 $0.00 $0.00 $1,127.76
+insured vehicle passed the stop sign and t-boned it.
+CPP  2542190 1 Injury C 03/28/2017 Insured vehicle merged into claimant vehicle's lane. $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2542190 2 Auto RC 03/28/2017 Insured vehicle merged into claimant vehicle's lane. $0.00 $2,944.27 $130.00 $0.00 $3,074.27
+CPP  2542190 3 Auto RC 03/28/2017 Insured vehicle merged into claimant vehicle's lane. $0.00 $7,117.56 $115.00 $0.00 $7,232.56
+CPP  2543663 1 Auto RC 03/28/2017 Insured vehicle was side-swiped by claimant vehicle. $0.00 $922.20 $35.00 $0.00 $957.20
+CPP  2543663 2 Auto C 03/28/2017 Insured vehicle was side-swiped by claimant vehicle. $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2544843 1 Property O 03/15/2017 Laptop stolen $2,700.00 $0.00 $0.00 $0.00 $2,700.00
+CPP  2553345 1 Property O 02/01/2017 Youth refused to go to her room and destroyed some of  $7,443.10 $0.00 $0.00 $0.00 $7,443.10
+insured's property.
+CPP  2692981 1 Auto C 04/19/2017 Other driver stopped short at the intersection causing  $0.00 $3,950.98 $0.00 $0.00 $3,950.98
+Insured to slam on his breaks. Filing for potential 
+liability purposes only.
+CPP  2692981 2 Injury C 04/19/2017 Other driver stopped short at the intersection causing  $0.00 $0.00 $0.00 $0.00 $0.00
+Insured to slam on his breaks. Filing for potential 
+liability purposes only.
+CPP  2700805 1 Injury C 05/07/2017 Employee was assaulted by one of the residents in the  $0.00 $0.00 $0.00 $0.00 $0.00
+group home.
+CPP  2703099 1 Auto R 04/19/2017 The insured was driving past the parked other party's  $0.00 $1,455.44 $35.00 $0.00 $1,490.44
+vehicle when the other party opened the door, which 
+the insured hit.
+CPP  2703099 2 Auto C 04/19/2017 The insured was driving past the parked other party's  $0.00 $0.00 $0.00 $0.00 $0.00
+vehicle when the other party opened the door, which 
+the insured hit.
+CPP  2704412 1 Property O 01/24/2017 Sump pump malfunction. Water overflowed into  $6,600.00 $0.00 $0.00 $0.00 $6,600.00
+basement.
+CPP  2709764 1 Auto C 04/28/2017 Claimant was going straight when Insured merged into  $0.00 $0.00 $0.00 $0.00 $0.00
+claimant's lane and rear ended claimantReport ID  615 AmTrust North America Date 8/2/2017
+Run ID  5398194 Time  9:33:25AM
+User 23673 CPP LOSS HISTORY REPORT Page 4
+
+Loss History For: WPP1154807-01 Insured Name: HeartShare Human Services of New York
+As Of Date: 08/01/2017 Agency Name: Cobb B, LLC
+
+CPP  2709764 2 Auto C 04/28/2017 Claimant was going straight when Insured merged into  $0.00 $0.00 $0.00 $0.00 $0.00
+claimant's lane and rear ended claimant
+CPP  2710330 1 Auto RC 05/21/2017 Insured reversing into spot other vehicle came out of  $0.00 $0.00 $0.00 $0.00 $0.00
+nowhere causing the tire of vehicle on to take off her 
+bumper, Unsured of details.
+CPP  2710330 2 Auto O 05/21/2017 Insured reversing into spot other vehicle came out of  $1,150.00 $0.00 $0.00 $0.00 $1,150.00
+nowhere causing the tire of vehicle on to take off her 
+bumper, Unsured of details.
+CPP  2710330 3 Injury O 05/21/2017 Insured reversing into spot other vehicle came out of  $10,000.00 $0.00 $0.00 $0.00 $10,000.00
+nowhere causing the tire of vehicle on to take off her 
+bumper, Unsured of details.
+CPP  2713599 1 Auto C 05/30/2017 Insured was attempting to park and sideswipe other  $0.00 $0.00 $0.00 $0.00 $0.00
+vehicle.
+CPP  2713599 2 Auto C 05/30/2017 Insured was attempting to park and sideswipe other  $0.00 $0.00 $0.00 $0.00 $0.00
+vehicle.
+CPP  2718723 1 Auto O 06/01/2017 Insured vehicle was parked and tow truck allegedly  $35.00 $3,597.70 $115.00 $0.00 $3,747.70
+sideswiped it
+CPP  2718723 2 Auto C 06/01/2017 Insured vehicle was parked and tow truck allegedly  $0.00 $0.00 $0.00 $0.00 $0.00
+sideswiped it
+CPP  2720771 1 Auto C 06/09/2017 Claimant was pulled over with the rear driver side door  $0.00 $0.00 $0.00 $0.00 $0.00
+opened. Insured struck the door and continued to drive 
+for some distance before stopping.
+CPP  2720771 2 Auto C 06/09/2017 Claimant was pulled over with the rear driver side door  $0.00 $0.00 $0.00 $0.00 $0.00
+opened. Insured struck the door and continued to drive 
+for some distance before stopping.
+CPP  2720957 1 Auto C 06/12/2017 insured vehicle hit other vehicle attempting to leave  $0.00 $1,051.27 $119.00 $0.00 $1,170.27
+parking space
+CPP  2720957 2 Auto C 06/12/2017 insured vehicle hit other vehicle attempting to leave  $0.00 $3,590.04 $119.00 $0.00 $3,709.04
+parking space
+CPP  2724327 1 Auto C 06/14/2017 Insured vehicle was rear ended by other vehicle $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2724327 2 Injury O 06/14/2017 Insured vehicle was rear ended by other vehicle $3,550.00 $0.00 $0.00 $0.00 $3,550.00
+CPP  2724327 3 Injury O 06/14/2017 Insured vehicle was rear ended by other vehicle $3,550.00 $0.00 $0.00 $0.00 $3,550.00
+CPP  2724327 4 Auto C 06/14/2017 Insured vehicle was rear ended by other vehicle $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2724327 5 Injury O 06/14/2017 Insured vehicle was rear ended by other vehicle $1,500.00 $0.00 $0.00 $0.00 $1,500.00
+CPP  2724327 6 Injury O 06/14/2017 Insured vehicle was rear ended by other vehicle $1,500.00 $0.00 $0.00 $0.00 $1,500.00
+CPP  2724327 7 Injury O 06/14/2017 Insured vehicle was rear ended by other vehicle $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2724327 8 Injury O 06/14/2017 Insured vehicle was rear ended by other vehicle $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2732210 1 Auto C 06/29/2017 As the insured was pulling over to discharge passengers,  $0.00 $0.00 $0.00 $0.00 $0.00
+they brushed against a parked car with the rear of their 
+vehicle.Report ID  615 AmTrust North America Date 8/2/2017
+Run ID  5398194 Time  9:33:25AM
+User 23673 CPP LOSS HISTORY REPORT Page 5
+
+Loss History For: WPP1154807-01 Insured Name: HeartShare Human Services of New York
+As Of Date: 08/01/2017 Agency Name: Cobb B, LLC
+
+CPP  2732210 2 Auto C 06/29/2017 As the insured was pulling over to discharge passengers,  $0.00 $0.00 $0.00 $0.00 $0.00
+they brushed against a parked car with the rear of their 
+vehicle.
+CPP  2732637 1 Auto O 07/08/2017 Van parked on 45th Street badly sideswiped $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2732637 2 Auto C 07/08/2017 Van parked on 45th Street badly sideswiped $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2735507 1 Auto O 07/06/2017 Unknown details of the accident $35,000.00 $0.00 $0.00 $0.00 $35,000.00
+CPP  2740219 1 Auto O 06/22/2017 The claimant stated that the he was stopped in traffic  $0.00 $0.00 $0.00 $0.00 $0.00
+when his vehicle was struck in the rear by the insured. 
+The insured stated that her croc got caught on the 
+brake pedal and was not able to stop i
+CPP  2740219 2 Auto O 06/22/2017 The claimant stated that the he was stopped in traffic  $0.00 $0.00 $0.00 $0.00 $0.00
+when his vehicle was struck in the rear by the insured. 
+The insured stated that her croc got caught on the 
+brake pedal and was not able to stop i
+CPP  2740219 3 Injury O 06/22/2017 The claimant stated that the he was stopped in traffic  $0.00 $0.00 $0.00 $0.00 $0.00
+when his vehicle was struck in the rear by the insured. 
+The insured stated that her croc got caught on the 
+brake pedal and was not able to stop i
+CPP  2741204 1 Auto O 07/26/2017 Cv r/e Iv $5,150.00 $0.00 $0.00 $0.00 $5,150.00
+CPP  2741204 2 Auto C 07/26/2017 Cv r/e Iv $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2741204 3 Injury O 07/26/2017 Cv r/e Iv $0.00 $0.00 $0.00 $0.00 $0.00
+
+Policy Totals Subline Eff Date: Exp Date: Claim Count: Reserve Amt Paid Losses: Expense Pymts: Recovery Amt: Total Incurred
+CPP 11/20/2016 11/20/2017  42 $190,186.60 $203,639.76 $7,628.66 $3,510.00 $397,945.02Report ID  615 AmTrust North America Date 8/2/2017
+Run ID  5398194 Time  9:33:25AM
+User 23673 CPP LOSS HISTORY REPORT Page 6
+
+Loss History For: WPP1154807-01 Insured Name: HeartShare Human Services of New York
+As Of Date: 08/01/2017 Agency Name: Cobb B, LLC
+
+Policy: WPP1154807-00
+
+Claim History
+
+Subline Claim Number: Claim Type Desc: Status Date Of Loss Loss Description: Reserve Amt Paid Losses: Expense Pymts: Recovery Amt: Total Incurred
+CPP  2044556 1 Auto O 12/07/2015 SIDESWIPPED SAME DIRECTION $0.00 $3,097.96 $311.60 $0.00 $3,409.56
+CPP  2044556 2 Auto C 12/07/2015 SIDESWIPPED SAME DIRECTION $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2044556 3 Injury C 12/07/2015 SIDESWIPPED SAME DIRECTION $0.00 $101.00 $5.00 $0.00 $106.00
+CPP  2044556 4 Injury C 12/07/2015 SIDESWIPPED SAME DIRECTION $0.00 $814.60 $19.73 $0.00 $834.33
+CPP  2044556 5 Injury R 12/07/2015 SIDESWIPPED SAME DIRECTION $0.00 $247.83 $0.00 $0.00 $247.83
+CPP  2044556 6 Injury R 12/07/2015 SIDESWIPPED SAME DIRECTION $0.00 $247.83 $0.00 $0.00 $247.83
+CPP  2044556 7 Injury O 12/07/2015 SIDESWIPPED SAME DIRECTION $0.00 $289.24 $0.00 $0.00 $289.24
+CPP  2044556 8 Injury RC 12/07/2015 SIDESWIPPED SAME DIRECTION $0.00 $312.25 $5.00 $0.00 $317.25
+CPP  2044556 9 Injury O 12/07/2015 SIDESWIPPED SAME DIRECTION $0.00 $247.83 $0.00 $0.00 $247.83
+CPP  2044556 10 Injury O 12/07/2015 SIDESWIPPED SAME DIRECTION $0.00 $324.46 $10.00 $0.00 $334.46
+CPP  2044556 11 Injury O 12/07/2015 SIDESWIPPED SAME DIRECTION $0.00 $101.00 $0.00 $0.00 $101.00
+CPP  2153080 1 Auto C 01/06/2016 DRIVER UNDERESTIMATED SPACE SHE HAD,  $0.00 $4,047.82 $118.00 $0.00 $4,165.82
+AND IT HIT POLE EXITING GARAGE
+CPP  2154445 1 Auto C 12/30/2015 INSURED'S VEHICLE DAMAGED ENTERING  $0.00 $3,945.08 $35.00 $0.00 $3,980.08
+GARAGE
+CPP  2162475 1 Auto C 01/27/2016 Insured was attempting to get into a parking spot and  $0.00 $0.00 $0.00 $0.00 $0.00
+struck other vehicle parked & occupied vehicle.
+CPP  2162475 2 Auto C 01/27/2016 Insured was attempting to get into a parking spot and  $0.00 $4,500.51 $0.00 $0.00 $4,500.51
+struck other vehicle parked & occupied vehicle.
+CPP  2162475 3 Injury O 01/27/2016 Insured was attempting to get into a parking spot and  $58,337.74 $0.00 $1,668.58 $0.00 $60,006.32
+struck other vehicle parked & occupied vehicle.
+CPP  2166748 1 Auto C 02/09/2016 INSURED WAS RIDING EAST BOUND ON THE  $0.00 $811.73 $115.00 $0.00 $926.73
+PARKWAY WHEN OTHER VEHICLE TRIED TO 
+MERGE OVER INTO THE LEFT LANE STRIKING 
+INSURED
+CPP  2166748 2 Injury C 02/09/2016 INSURED WAS RIDING EAST BOUND ON THE  $0.00 $0.00 $0.00 $0.00 $0.00
+PARKWAY WHEN OTHER VEHICLE TRIED TO 
+MERGE OVER INTO THE LEFT LANE STRIKING 
+INSURED
+CPP  2166748 3 Injury C 02/09/2016 INSURED WAS RIDING EAST BOUND ON THE  $0.00 $0.00 $0.00 $0.00 $0.00
+PARKWAY WHEN OTHER VEHICLE TRIED TO 
+MERGE OVER INTO THE LEFT LANE STRIKING 
+INSUREDReport ID  615 AmTrust North America Date 8/2/2017
+Run ID  5398194 Time  9:33:25AM
+User 23673 CPP LOSS HISTORY REPORT Page 7
+
+Loss History For: WPP1154807-01 Insured Name: HeartShare Human Services of New York
+As Of Date: 08/01/2017 Agency Name: Cobb B, LLC
+
+CPP  2166748 4 Auto C 02/09/2016 INSURED WAS RIDING EAST BOUND ON THE  $0.00 $0.00 $0.00 $0.00 $0.00
+PARKWAY WHEN OTHER VEHICLE TRIED TO 
+MERGE OVER INTO THE LEFT LANE STRIKING 
+INSURED
+CPP  2166748 5 Injury O 02/09/2016 INSURED WAS RIDING EAST BOUND ON THE  $20,117.40 $0.00 $2,386.81 $0.00 $22,504.21
+PARKWAY WHEN OTHER VEHICLE TRIED TO 
+MERGE OVER INTO THE LEFT LANE STRIKING 
+INSURED
+CPP  2171447 1 Auto RC 02/17/2016 INSURED STRUCK POTHHOLE IN THE ROAD $0.00 $2,909.81 $118.00 $0.00 $3,027.81
+CPP  2176793 1 Auto RC 02/23/2016 IV allegedly side swiped OV trying to go past it, while it  $0.00 $7,093.58 $118.00 $0.00 $7,211.58
+was stopped at the bus stop.
+CPP  2176793 2 Auto C 02/23/2016 IV allegedly side swiped OV trying to go past it, while it  $0.00 $0.00 $0.00 $0.00 $0.00
+was stopped at the bus stop.
+CPP  2177194 1 Injury C 03/09/2016 CLAIMANT AND INSURED WERE BACKING AT  $0.00 $0.00 $0.00 $0.00 $0.00
+THE SAME TIME AND COLLIDED
+CPP  2177194 2 Auto C 03/09/2016 CLAIMANT AND INSURED WERE BACKING AT  $0.00 $0.00 $0.00 $0.00 $0.00
+THE SAME TIME AND COLLIDED
+CPP  2177194 3 Auto C 03/09/2016 CLAIMANT AND INSURED WERE BACKING AT  $0.00 $538.41 $0.00 $0.00 $538.41
+THE SAME TIME AND COLLIDED
+CPP  2178518 1 Injury O 12/14/2015 CLAIMANT ALLEGEDLY SUSTAINED SERIOUS  $70,706.85 $0.00 $9,883.73 $0.00 $80,590.58
+INJURIES DUE TO NEGLIGENCE
+CPP  2178892 1 Auto RC 02/26/2016 INSURED WAS CHANGING LANES AND HIT  $0.00 $11,580.29 $173.00 $0.00 $11,753.29
+OTHER VEHICLE ON THE BACK DRIVER SIDE
+CPP  2178892 2 Auto RC 02/26/2016 INSURED WAS CHANGING LANES AND HIT  $0.00 $13,392.13 $208.00 $0.00 $13,600.13
+OTHER VEHICLE ON THE BACK DRIVER SIDE
+CPP  2178892 3 Auto C 02/26/2016 INSURED WAS CHANGING LANES AND HIT  $0.00 $5,950.32 $65.00 $0.00 $6,015.32
+OTHER VEHICLE ON THE BACK DRIVER SIDE
+CPP  2179026 1 Auto C 03/05/2016 INSUREDS VEHICLE WAS STOPPED AT LIGHT,  $0.00 $0.00 $0.00 $0.00 $0.00
+OTHER VEHICLE HIT INSUREDS BACK BUMPER 
+AND DROVE OFF.
+CPP  2183033 1 Auto C 03/24/2016 CLAIMANT WAS PARKED AND WAS STRUCK BY  $0.00 $0.00 $0.00 $0.00 $0.00
+INSURED WHO THEN FLED THE SCENE
+CPP  2218167 1 Auto RC 03/31/2016 WHILE PARKED ON THE STREET VEHICLE  $0.00 $0.00 $35.00 $0.00 $35.00
+TURNED OFF TRUCK DROVE BY AND SIDE 
+SWIPPED INSURED
+CPP  2218372 1 Auto RC 03/28/2016 While traveling EB on Flushing Ave, was struck by OV  $0.00 $11,677.17 $115.00 $11,677.17 $115.00
+traveling NB on Hall Street.
+CPP  2218372 2 Auto C 03/28/2016 While traveling EB on Flushing Ave, was struck by OV  $0.00 $0.00 $0.00 $0.00 $0.00
+traveling NB on Hall Street.
+CPP  2218372 3 Injury C 03/28/2016 While traveling EB on Flushing Ave, was struck by OV  $0.00 $0.00 $0.00 $0.00 $0.00
+traveling NB on Hall Street.
+CPP  2220648 1 Auto C 03/14/2016 OTHER VEHICLE REVERSED AND HIT INSUREDS  $0.00 $217.90 $45.00 $0.00 $262.90
+VEHICLE WHILE AT A STOP LIGHT.Report ID  615 AmTrust North America Date 8/2/2017
+Run ID  5398194 Time  9:33:25AM
+User 23673 CPP LOSS HISTORY REPORT Page 8
+
+Loss History For: WPP1154807-01 Insured Name: HeartShare Human Services of New York
+As Of Date: 08/01/2017 Agency Name: Cobb B, LLC
+
+CPP  2220648 2 Auto C 03/14/2016 OTHER VEHICLE REVERSED AND HIT INSUREDS  $0.00 $0.00 $0.00 $0.00 $0.00
+VEHICLE WHILE AT A STOP LIGHT.
+CPP  2222146 1 Auto C 04/08/2016 INSURED WAS STOPPED A STOP LIGHT WHEN  $0.00 $0.00 $0.00 $0.00 $0.00
+STARTED TO MAKE RIGHT TURN ON RED, 
+WHEN BOTH VEHICLE STUCK EACH OTHER 
+CAUSING DAMAGES
+CPP  2222146 2 Auto RC 04/08/2016 INSURED WAS STOPPED A STOP LIGHT WHEN  $0.00 $5,359.00 $60.00 $0.00 $5,419.00
+STARTED TO MAKE RIGHT TURN ON RED, 
+WHEN BOTH VEHICLE STUCK EACH OTHER 
+CAUSING DAMAGES
+CPP  2222982 1 Auto C 04/01/2016 IV underestimated the width in the road to get pass OV,  $0.00 $1,426.48 $173.00 $0.00 $1,599.48
+therefore coming in contact with OV leaving damage 
+to insured's vehicle.
+CPP  2229198 1 Auto C 03/31/2016 INSURED VEHICLE ALLEGEDLY VEERED INTO  $0.00 $0.00 $0.00 $0.00 $0.00
+CLAIMANT'S LANE CAUSING DAMAGE. INSURED 
+DRIVER STATED THIS ACCIDENT DID NOT 
+HAPPEN.
+CPP  2229198 2 Auto C 03/31/2016 INSURED VEHICLE ALLEGEDLY VEERED INTO  $0.00 $906.38 $35.00 $0.00 $941.38
+CLAIMANT'S LANE CAUSING DAMAGE. INSURED 
+DRIVER STATED THIS ACCIDENT DID NOT 
+HAPPEN.
+CPP  2230837 1 Auto C 05/01/2016   insured was inattentive and backing improperly when  $0.00 $0.00 $0.00 $0.00 $0.00
+they struck the clmt vehicle who had begun to back, 
+saw the iv backing, honked and attempted to move 
+forward, but was struck in the passgner rear
+CPP  2230837 2 Auto C 05/01/2016   insured was inattentive and backing improperly when  $0.00 $1,772.35 $35.00 $0.00 $1,807.35
+they struck the clmt vehicle who had begun to back, 
+saw the iv backing, honked and attempted to move 
+forward, but was struck in the passgner rear
+CPP  2230837 3 Injury C 05/01/2016   insured was inattentive and backing improperly when  $0.00 $101.00 $0.00 $0.00 $101.00
+they struck the clmt vehicle who had begun to back, 
+saw the iv backing, honked and attempted to move 
+forward, but was struck in the passgner rear
+CPP  2230837 4 Injury C 05/01/2016   insured was inattentive and backing improperly when  $0.00 $101.00 $0.00 $0.00 $101.00
+they struck the clmt vehicle who had begun to back, 
+saw the iv backing, honked and attempted to move 
+forward, but was struck in the passgner rear
+CPP  2230837 5 Injury C 05/01/2016   insured was inattentive and backing improperly when  $0.00 $101.00 $0.00 $0.00 $101.00
+they struck the clmt vehicle who had begun to back, 
+saw the iv backing, honked and attempted to move 
+forward, but was struck in the passgner rearReport ID  615 AmTrust North America Date 8/2/2017
+Run ID  5398194 Time  9:33:25AM
+User 23673 CPP LOSS HISTORY REPORT Page 9
+
+Loss History For: WPP1154807-01 Insured Name: HeartShare Human Services of New York
+As Of Date: 08/01/2017 Agency Name: Cobb B, LLC
+
+CPP  2230837 6 Injury C 05/01/2016   insured was inattentive and backing improperly when  $0.00 $101.00 $0.00 $0.00 $101.00
+they struck the clmt vehicle who had begun to back, 
+saw the iv backing, honked and attempted to move 
+forward, but was struck in the passgner rear
+CPP  2230941 1 Auto C 12/07/2015 One of insured's residents Paris Cole damaged the  $0.00 $2,456.91 $0.00 $0.00 $2,456.91
+neighbor's car while having a psychotic episode.
+CPP  2232312 1 Auto C 04/24/2016 INSUREDS VEHICLE STARTED TO BACKING UP  $0.00 $0.00 $0.00 $0.00 $0.00
+FIRST OTHER VEHICLE CAME FORWARD FROM 
+DRIVERS BLIND SIDE, ANS INSUREDS VEHICLE 
+ENDED UP HITTING OTHER VEHICLE.
+CPP  2232312 2 Auto C 04/24/2016 INSUREDS VEHICLE STARTED TO BACKING UP  $0.00 $2,282.41 $118.00 $0.00 $2,400.41
+FIRST OTHER VEHICLE CAME FORWARD FROM 
+DRIVERS BLIND SIDE, ANS INSUREDS VEHICLE 
+ENDED UP HITTING OTHER VEHICLE.
+CPP  2243475 1 Auto C 05/06/2016 ONE OTHE INDIVIDUALS THAT WAS  $0.00 $0.00 $0.00 $0.00 $0.00
+TRANSPORTED ON INSURED VEHICLE BROKE 
+OUT THE WINDOW LOCATED ON THE DRIVER 
+SIDE IN THE MIDDLE OF THE VAN, IT WAS 
+REPORTED BY HIS ASSIGNED ONE TO ONE 
+STAFF THAT HG WAS ASKE
+CPP  2243475 2 Auto C 05/06/2016 ONE OTHE INDIVIDUALS THAT WAS  $0.00 $0.00 $0.00 $0.00 $0.00
+TRANSPORTED ON INSURED VEHICLE BROKE 
+OUT THE WINDOW LOCATED ON THE DRIVER 
+SIDE IN THE MIDDLE OF THE VAN, IT WAS 
+REPORTED BY HIS ASSIGNED ONE TO ONE 
+STAFF THAT HG WAS ASKE
+CPP  2244472 1 Auto C 04/30/2016 INSURED WAS TURNING RIGHT ONTO REPOLYE  $0.00 $971.60 $115.00 $0.00 $1,086.60
+STREET COMING FROM GAS STATION ON 
+CORNER OF HICKS ST OTHER VEHICLE WAS 
+TURNING RIGHT FROM HICKS ONTO REPOYLE 
+ST. INSURED MADE STOP TO PREVENT HEAD 
+ON COLLISION,
+CPP  2244472 2 Auto C 04/30/2016 INSURED WAS TURNING RIGHT ONTO REPOLYE  $0.00 $0.00 $0.00 $0.00 $0.00
+STREET COMING FROM GAS STATION ON 
+CORNER OF HICKS ST OTHER VEHICLE WAS 
+TURNING RIGHT FROM HICKS ONTO REPOYLE 
+ST. INSURED MADE STOP TO PREVENT HEAD 
+ON COLLISION,
+CPP  2245297 1 Auto C 05/03/2016 INSUREDS VEHICLE WAS REAR ENDED BY  $0.00 $7,452.99 $367.00 $0.00 $7,819.99
+OTHER VEHICLE.
+CPP  2245297 2 Auto C 05/03/2016 INSUREDS VEHICLE WAS REAR ENDED BY  $0.00 $0.00 $0.00 $0.00 $0.00
+OTHER VEHICLE.Report ID  615 AmTrust North America Date 8/2/2017
+Run ID  5398194 Time  9:33:25AM
+User 23673 CPP LOSS HISTORY REPORT Page 10
+
+Loss History For: WPP1154807-01 Insured Name: HeartShare Human Services of New York
+As Of Date: 08/01/2017 Agency Name: Cobb B, LLC
+
+CPP  2249915 1 Auto C 05/19/2016 INSURED VEHICLE WAS WAITING FOR GREEN  $0.00 $0.00 $118.00 $0.00 $118.00
+LIGHT, CLAIMANT VEHICLE REVERSED INTO 
+INSURED AND SPED OFF. NO INJURIES 
+REPORTED.
+CPP  2249915 2 Auto C 05/19/2016 INSURED VEHICLE WAS WAITING FOR GREEN  $0.00 $0.00 $0.00 $0.00 $0.00
+LIGHT, CLAIMANT VEHICLE REVERSED INTO 
+INSURED AND SPED OFF. NO INJURIES 
+REPORTED.
+CPP  2254154 1 Auto RC 05/11/2016 INSURED VEHICLE WAS CAREFULLY REVERSING  $0.00 $0.00 $17.57 $0.00 $17.57
+AT 15 MPH BEEPER WAS ON AND OTHER 
+VEHICLE SUDDENLY EMERGED PULLING OUT 
+OF PARKING SPOT
+CPP  2254154 2 Auto C 05/11/2016 INSURED VEHICLE WAS CAREFULLY REVERSING  $0.00 $927.93 $115.00 $0.00 $1,042.93
+AT 15 MPH BEEPER WAS ON AND OTHER 
+VEHICLE SUDDENLY EMERGED PULLING OUT 
+OF PARKING SPOT
+CPP  2263791 1 Auto R 05/24/2016 CLAIMANT VEHICLE PULLED ALONG SIDE THE  $1,000.00 $2,074.62 $35.00 $0.00 $3,109.62
+DRIVER SIDE OF INSURED VEHICLE AND 
+PULLED LOWER SIDE OFF.
+CPP  2263791 2 Auto C 05/24/2016 CLAIMANT VEHICLE PULLED ALONG SIDE THE  $0.00 $0.00 $0.00 $0.00 $0.00
+DRIVER SIDE OF INSURED VEHICLE AND 
+PULLED LOWER SIDE OFF.
+CPP  2266147 1 Auto C 05/27/2016 VAN WA PARKED ON 78TH ST ANOTHER  $0.00 $943.58 $35.00 $0.00 $978.58
+VEHICLE MUST HAVE SIDE SWIPED AVAN 
+INSURED'S STAFF WENT TO USE THE VAN AND 
+NOTICED THE PASSNGER SIDE WAS SCRATCHED 
+AND DENTED.
+CPP  2267756 1 Auto C 05/31/2016 INSURED VEHICLE RAN RED LIGHT AND  $0.00 $34,918.56 $150.00 $2,275.00 $32,793.56
+STRUCK CLAIMANT VEHICLE.
+CPP  2267756 2 Auto RC 05/31/2016 INSURED VEHICLE RAN RED LIGHT AND  $0.00 $4,739.14 $60.00 $0.00 $4,799.14
+STRUCK CLAIMANT VEHICLE.
+CPP  2267756 3 Injury C 05/31/2016 INSURED VEHICLE RAN RED LIGHT AND  $0.00 $0.00 $0.00 $0.00 $0.00
+STRUCK CLAIMANT VEHICLE.
+CPP  2267756 4 Injury C 05/31/2016 INSURED VEHICLE RAN RED LIGHT AND  $0.00 $0.00 $0.00 $0.00 $0.00
+STRUCK CLAIMANT VEHICLE.
+CPP  2267756 5 Injury C 05/31/2016 INSURED VEHICLE RAN RED LIGHT AND  $0.00 $0.00 $0.00 $0.00 $0.00
+STRUCK CLAIMANT VEHICLE.
+CPP  2270826 1 Auto C 06/11/2016 OTHER VEHICLE SIDE SWIPED INSURED GING  $0.00 $0.00 $0.00 $0.00 $0.00
+SAME DIRECTION. INSURED ON LEFT 
+CLAIMANT ON RIGHT. CLAIMANT CAME OVER 
+TO THE LEFT SIDE AND HIT INSURED.Report ID  615 AmTrust North America Date 8/2/2017
+Run ID  5398194 Time  9:33:25AM
+User 23673 CPP LOSS HISTORY REPORT Page 11
+
+Loss History For: WPP1154807-01 Insured Name: HeartShare Human Services of New York
+As Of Date: 08/01/2017 Agency Name: Cobb B, LLC
+
+CPP  2270826 2 Auto RC 06/11/2016 OTHER VEHICLE SIDE SWIPED INSURED GING  $0.00 $0.00 $130.00 $0.00 $130.00
+SAME DIRECTION. INSURED ON LEFT 
+CLAIMANT ON RIGHT. CLAIMANT CAME OVER 
+TO THE LEFT SIDE AND HIT INSURED.
+CPP  2273618 1 Auto C 06/07/2016 INSUREDS VEHCLE WAS BACKING UP FROM  $0.00 $0.00 $0.00 $0.00 $0.00
+PARKING SPACE, AND OTHER DRIVER WAS 
+PASSING BEHIND INSUREDS VEHICLE TAPPED 
+OTHER VEHICLE  PASSENGER SIDE DOOR.
+CPP  2278670 1 Auto RC 07/05/2016 CLAIMANT VEHICLE WAS DRIVING STRAIGHT  $0.00 $430.52 $45.00 $0.00 $475.52
+THROUGH A GREEN LIGHT AND INSURED 
+VEHICLE WAS MAKING A RIGHT TURN ONTO 
+THE SAME ROAD AND STRUCK CLAIMANT 
+VEHICLE.
+CPP  2278670 2 Auto RC 07/05/2016 CLAIMANT VEHICLE WAS DRIVING STRAIGHT  $0.00 $4,150.79 $0.00 $0.00 $4,150.79
+THROUGH A GREEN LIGHT AND INSURED 
+VEHICLE WAS MAKING A RIGHT TURN ONTO 
+THE SAME ROAD AND STRUCK CLAIMANT 
+VEHICLE.
+CPP  2279993 1 Auto C 07/08/2016 CLAIMANT ATTEMPTED TO SWITCH INTO  $0.00 $2,226.93 $118.00 $0.00 $2,344.93
+INSURED'S LANE AND CAUSED COLLISION.
+CPP  2279993 2 Auto C 07/08/2016 CLAIMANT ATTEMPTED TO SWITCH INTO  $0.00 $0.00 $0.00 $0.00 $0.00
+INSURED'S LANE AND CAUSED COLLISION.
+CPP  2288260 1 Auto C 07/22/2016 INSURED WAS PARKING ATTEMTING TO MOVE  $0.00 $0.00 $0.00 $0.00 $0.00
+OVER TO ALLOW A SCHOOL BUS PASS, 
+ACCIDENTALLY BUMPED INTO A PARKED 
+VEHICLE
+CPP  2289534 1 Auto C 07/21/2016 INSURED VEHICLE WAS AT A TRAFFIC LIGHT  $0.00 $2,119.98 $115.00 $0.00 $2,234.98
+SIGNAL WHEN INSURED VEHICLE  BEGAN TO 
+ACCELERATE PRIOR TO THE FTRAFFIC LIGHT 
+TURNING GREEN. INSURED VEHICLE COLLIDED 
+WITH OTHER VEHICLE
+CPP  2289534 2 Auto RC 07/21/2016 INSURED VEHICLE WAS AT A TRAFFIC LIGHT  $0.00 $6,195.30 $65.00 $0.00 $6,260.30
+SIGNAL WHEN INSURED VEHICLE  BEGAN TO 
+ACCELERATE PRIOR TO THE FTRAFFIC LIGHT 
+TURNING GREEN. INSURED VEHICLE COLLIDED 
+WITH OTHER VEHICLE
+CPP  2290893 1 Property C 07/25/2016 The basement and garage have approximately two feet  $0.00 $0.00 $1,263.65 $0.00 $1,263.65
+of water inside. An emergency plumber from the 
+approved vendor list was contacted immediately and 
+came out to assist with the damage. The plumber waReport ID  615 AmTrust North America Date 8/2/2017
+Run ID  5398194 Time  9:33:25AM
+User 23673 CPP LOSS HISTORY REPORT Page 12
+
+Loss History For: WPP1154807-01 Insured Name: HeartShare Human Services of New York
+As Of Date: 08/01/2017 Agency Name: Cobb B, LLC
+
+CPP  2294884 1 Auto C 07/29/2016 INSURED VEHICLE WAS AT A STOP LIGHT,  $0.00 $7,342.40 $115.00 $0.00 $7,457.40
+WITH CLAIMANT VEHICLE ON THE RIGHT. 
+ANOTHER VEHICLE TRIED TO SQUEEZE 
+BETWEEN TWO VEHICLES AND DAMANGED 
+PASSENGER SIDE OF INSURED VEHICLE.
+CPP  2294884 2 Auto C 07/29/2016 INSURED VEHICLE WAS AT A STOP LIGHT,  $0.00 $0.00 $0.00 $0.00 $0.00
+WITH CLAIMANT VEHICLE ON THE RIGHT. 
+ANOTHER VEHICLE TRIED TO SQUEEZE 
+BETWEEN TWO VEHICLES AND DAMANGED 
+PASSENGER SIDE OF INSURED VEHICLE.
+CPP  2301626 1 Auto C 08/05/2016 PULLING IN THE GARAGE/DRIVEWAY RIGHT  $0.00 $1,838.40 $35.00 $0.00 $1,873.40
+SLIDING DOOR HIT THE FENCE OF THE 
+DRIVEWAY
+CPP  2302193 1 Property O 08/13/2016 FIRE - Attic fire at insd's 85 Bartlett Ave location,  $85,982.59 $215,257.41 $37,401.62 $0.00 $338,641.62
+extensive fire/water damage to the residence leaving it 
+uninhabitalble all individuals residing @ Moore must be 
+relocated to other living quarters
+CPP  2302193 2 Property O 08/13/2016 FIRE - Attic fire at insd's 85 Bartlett Ave location,  $50,000.00 $0.00 $0.00 $0.00 $50,000.00
+extensive fire/water damage to the residence leaving it 
+uninhabitalble all individuals residing @ Moore must be 
+relocated to other living quarters
+CPP  2302193 3 Property O 08/13/2016 FIRE - Attic fire at insd's 85 Bartlett Ave location,  $40,183.74 $65,183.74 $0.00 $0.00 $105,367.48
+extensive fire/water damage to the residence leaving it 
+uninhabitalble all individuals residing @ Moore must be 
+relocated to other living quarters
+CPP  2312734 1 Injury C 08/31/2016 Please see attached Page 2 of attachment named  $0.00 $0.00 $5,198.72 $0.00 $5,198.72
+Notice of Settlement of Class Action Lawsuit Elisa W. 
+has brief description of the lawsuit. HeartShare is not 
+named in the suit. However the foster care
+CPP  2327638 1 Property C 08/13/2016 Attic fire at insured's 85 Bartlett Ave. Location,  $0.00 $0.00 $0.00 $0.00 $0.00
+extensive Fire/Water damage to the residence leaving it 
+uninhabitable all individuals residing @ Moore must be 
+relocated to other living quarters
+CPP  2327638 2 Property C 08/13/2016 Attic fire at insured's 85 Bartlett Ave. Location,  $0.00 $0.00 $0.00 $0.00 $0.00
+extensive Fire/Water damage to the residence leaving it 
+uninhabitable all individuals residing @ Moore must be 
+relocated to other living quarters
+CPP  2327638 3 Property C 08/13/2016 Attic fire at insured's 85 Bartlett Ave. Location,  $0.00 $0.00 $0.00 $0.00 $0.00
+extensive Fire/Water damage to the residence leaving it 
+uninhabitable all individuals residing @ Moore must be 
+relocated to other living quartersReport ID  615 AmTrust North America Date 8/2/2017
+Run ID  5398194 Time  9:33:25AM
+User 23673 CPP LOSS HISTORY REPORT Page 13
+
+Loss History For: WPP1154807-01 Insured Name: HeartShare Human Services of New York
+As Of Date: 08/01/2017 Agency Name: Cobb B, LLC
+
+CPP  2327638 4 Property C 08/13/2016 Attic fire at insured's 85 Bartlett Ave. Location,  $0.00 $0.00 $0.00 $0.00 $0.00
+extensive Fire/Water damage to the residence leaving it 
+uninhabitable all individuals residing @ Moore must be 
+relocated to other living quarters
+CPP  2327638 5 Property C 08/13/2016 Attic fire at insured's 85 Bartlett Ave. Location,  $0.00 $0.00 $0.00 $0.00 $0.00
+extensive Fire/Water damage to the residence leaving it 
+uninhabitable all individuals residing @ Moore must be 
+relocated to other living quarters
+CPP  2327647 1 Auto C 08/29/2016 OTHER VEHICLE WAS PARKED AND  $0.00 $0.00 $0.00 $0.00 $0.00
+UNOCCUPIED AND INSURED TRIED GOING 
+AROUND OTHER VEHICLE AND STRUCK HIM
+CPP  2327647 2 Auto C 08/29/2016 OTHER VEHICLE WAS PARKED AND  $0.00 $1,426.58 $118.00 $0.00 $1,544.58
+UNOCCUPIED AND INSURED TRIED GOING 
+AROUND OTHER VEHICLE AND STRUCK HIM
+CPP  2328239 1 Auto C 08/26/2016 INSUREDS VEHICLE MADE A U-TURN AND  $0.00 $4,632.02 $118.00 $0.00 $4,750.02
+ALLEGEDLY HIT CLAIMANT ON LEFT SIDE
+CPP  2330048 1 Auto C 09/10/2016 Insureds vehicle allegedly side siped another vehicle  $0.00 $2,024.04 $115.00 $0.00 $2,139.04
+while making a left turn
+CPP  2330048 2 Auto RC 09/10/2016 Insureds vehicle allegedly side siped another vehicle  $0.00 $5,303.37 $65.00 $0.00 $5,368.37
+while making a left turn
+CPP  2330048 3 Injury C 09/10/2016 Insureds vehicle allegedly side siped another vehicle  $0.00 $0.00 $0.00 $0.00 $0.00
+while making a left turn
+CPP  2330048 4 Injury C 09/10/2016 Insureds vehicle allegedly side siped another vehicle  $0.00 $0.00 $0.00 $0.00 $0.00
+while making a left turn
+CPP  2330048 5 Injury C 09/10/2016 Insureds vehicle allegedly side siped another vehicle  $0.00 $0.00 $0.00 $0.00 $0.00
+while making a left turn
+CPP  2330048 6 Injury C 09/10/2016 Insureds vehicle allegedly side siped another vehicle  $0.00 $0.00 $0.00 $0.00 $0.00
+while making a left turn
+CPP  2331414 1 Auto C 09/02/2016 While attempting to return agency vehicle insured hit  $0.00 $4,057.90 $115.00 $0.00 $4,172.90
+left side of vehicle on pilar.
+CPP  2335149 1 Auto C 08/31/2016 Claimant vehicle was trying to parallel park and was  $0.00 $1,682.22 $115.00 $0.00 $1,797.22
+struck by insured vehicle per the police report. Insured 
+stated that while going straight, she was struck by 
+claimant vehicle.
+CPP  2335149 2 Auto C 08/31/2016 Claimant vehicle was trying to parallel park and was  $0.00 $0.00 $0.00 $0.00 $0.00
+struck by insured vehicle per the police report. Insured 
+stated that while going straight, she was struck by 
+claimant vehicle.
+CPP  2338136 1 Auto C 09/24/2016 Insured vehicle was sideswiped by a small charter bus. $0.00 $1,731.10 $118.00 $0.00 $1,849.10
+CPP  2338136 2 Auto C 09/24/2016 Insured vehicle was sideswiped by a small charter bus. $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2339222 1 Injury C 09/15/2016 Insured vehicle was making a left turn when other  $0.00 $0.00 $0.00 $0.00 $0.00
+vehicle was going straight and collided with insured 
+vehicle.Report ID  615 AmTrust North America Date 8/2/2017
+Run ID  5398194 Time  9:33:25AM
+User 23673 CPP LOSS HISTORY REPORT Page 14
+
+Loss History For: WPP1154807-01 Insured Name: HeartShare Human Services of New York
+As Of Date: 08/01/2017 Agency Name: Cobb B, LLC
+
+CPP  2339222 2 Auto RC 09/15/2016 Insured vehicle was making a left turn when other  $0.00 $3,564.68 $115.00 $0.00 $3,679.68
+vehicle was going straight and collided with insured 
+vehicle.
+CPP  2339222 3 Auto C 09/15/2016 Insured vehicle was making a left turn when other  $0.00 $0.00 $0.00 $0.00 $0.00
+vehicle was going straight and collided with insured 
+vehicle.
+CPP  2340304 1 Property C 09/26/2016 A flood occurred in the Insured's basement. $0.00 $0.00 $853.97 $0.00 $853.97
+CPP  2343383 1 Auto RC 10/06/2016 Insured vehicle hit other vehicle while attempting to  $0.00 $11,917.29 $291.00 $0.00 $12,208.29
+change lanes.
+CPP  2343383 2 Auto C 10/06/2016 Insured vehicle hit other vehicle while attempting to  $0.00 $22,874.46 $4,369.70 $0.00 $27,244.16
+change lanes.
+CPP  2343383 3 Injury O 10/06/2016 Insured vehicle hit other vehicle while attempting to  $52,000.00 $0.00 $0.00 $0.00 $52,000.00
+change lanes.
+CPP  2343383 4 Injury O 10/06/2016 Insured vehicle hit other vehicle while attempting to  $15,000.00 $0.00 $0.00 $0.00 $15,000.00
+change lanes.
+CPP  2343886 1 Auto C 09/22/2016 Insured vehicle backed into a parked vehicle. $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2343886 2 Auto RC 09/22/2016 Insured vehicle backed into a parked vehicle. $0.00 $800.67 $115.00 $0.00 $915.67
+CPP  2346812 1 Auto C 09/01/2016 OV took left turn from the right lane, and collided with  $0.00 $0.00 $0.00 $0.00 $0.00
+IV, who was traveling straight through the intersection.
+CPP  2346812 2 Injury O 09/01/2016 OV took left turn from the right lane, and collided with  $8,200.30 $0.00 $1,299.70 $0.00 $9,500.00
+IV, who was traveling straight through the intersection.
+CPP  2346812 3 Auto C 09/01/2016 OV took left turn from the right lane, and collided with  $0.00 $0.00 $0.00 $0.00 $0.00
+IV, who was traveling straight through the intersection.
+CPP  2346812 4 Injury C 09/01/2016 OV took left turn from the right lane, and collided with  $0.00 $717.20 $255.00 $0.00 $972.20
+IV, who was traveling straight through the intersection.
+CPP  2346812 5 Injury C 09/01/2016 OV took left turn from the right lane, and collided with  $0.00 $0.00 $0.00 $0.00 $0.00
+IV, who was traveling straight through the intersection.
+CPP  2349826 1 Auto C 10/15/2016 Insured vehicle struck wall in parking garage while  $0.00 $6,096.93 $118.00 $0.00 $6,214.93
+exiting
+CPP  2365585 1 Property RC 10/19/2016 Water damage in insured basement $0.00 $0.00 $1,163.40 $0.00 $1,163.40
+CPP  2365934 1 Injury C 09/16/2016 Letter of representation in regards to a claimant who  $0.00 $0.00 $0.00 $0.00 $0.00
+tripped and fell at insured's premises.
+CPP  2366542 1 Auto RC 10/22/2016 Insured sideswiped claimant while leaving parking lot. $0.00 $0.00 $37.00 $0.00 $37.00
+CPP  2366542 2 Auto C 10/22/2016 Insured sideswiped claimant while leaving parking lot. $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2368120 1 Auto C 11/14/2016 Insured vehicle was hit by claimant while parked  $0.00 $13,739.50 $150.00 $12,839.62 $1,049.88
+unattended
+CPP  2368726 1 Auto RC 11/17/2016 Insured hit parked car and neighbor's fence $0.00 $8,147.55 $110.00 $0.00 $8,257.55
+CPP  2368726 2 Auto C 11/17/2016 Insured hit parked car and neighbor's fence $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2368726 3 Property C 11/17/2016 Insured hit parked car and neighbor's fence $0.00 $3,300.00 $0.00 $0.00 $3,300.00
+CPP  2370204 1 Auto RC 10/16/2016 Interior damage to the insured vehicle by individual. $0.00 $783.69 $175.00 $0.00 $958.69Report ID  615 AmTrust North America Date 8/2/2017
+Run ID  5398194 Time  9:33:25AM
+User 23673 CPP LOSS HISTORY REPORT Page 15
+
+Loss History For: WPP1154807-01 Insured Name: HeartShare Human Services of New York
+As Of Date: 08/01/2017 Agency Name: Cobb B, LLC
+
+CPP  2435300 1 Auto C 11/10/2016 Insured vehicle hit other vehicles while they were  $0.00 $0.00 $14.00 $0.00 $14.00
+parked and unoccupied
+CPP  2438077 1 Auto RC 11/09/2016 Insured vehicle side swiped a bus $0.00 $2,588.35 $35.00 $0.00 $2,623.35
+CPP  2438077 2 Auto C 11/09/2016 Insured vehicle side swiped a bus $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2438108 1 Auto C 11/09/2016 Insured's vehicle side swiped bus $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2438108 2 Auto C 11/09/2016 Insured's vehicle side swiped bus $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2439854 1 Auto C 11/03/2016 Insured's client pulled away from staff members and  $0.00 $681.56 $0.00 $0.00 $681.56
+started to bang on a vehicle that was parked.
+CPP  2440683 1 Auto C 08/31/2016 Insured rear ended claimant $0.00 $0.00 $0.00 $0.00 $0.00
+CPP  2499690 1 Auto C 10/28/2016 Insured's vehicle was damaged due to client $0.00 $607.38 $35.00 $0.00 $642.38
+CPP  2502442 1 Injury C 10/05/2016 S&C first notice of loss. disabled person injured on bus  $0.00 $0.00 $0.00 $0.00 $0.00
+leaving insd day program facility
+CPP  2719839 1 Auto C 10/20/2016 The insured hit a cement column while pulling into a  $0.00 $5,072.14 $100.00 $0.00 $5,172.14
+parking spot.
+
+Policy Totals Subline Eff Date: Exp Date: Claim Count: Reserve Amt Paid Losses: Expense Pymts: Recovery Amt: Total Incurred
+CPP 11/20/2015 11/20/2016  67 $401,528.62 $545,578.80 $71,356.78 $26,791.79 $991,672.41Report ID  615 AmTrust North America Date 8/2/2017
+Run ID  5398194 Time  9:33:25AM
+User 23673 CPP LOSS HISTORY REPORT Page 16
+
+Loss History For: WPP1154807-01 Insured Name: HeartShare Human Services of New York
+As Of Date: 08/01/2017 Agency Name: Cobb B, LLC
+
+Report Totals for all losses 11/20/2015 to 11/20/2017 Reserve Amt Paid Losses: Expense Pymts: Recovery Amt: Total Incurred
+$591,715.22 $749,218.56 $78,985.44 $30,301.79 $1,389,617.43
